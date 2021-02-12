@@ -1,8 +1,10 @@
 # Keyboard shortcuts for Xcode
 
 ### Edit
-- Cmd + Shift + 7 or Cmd + / : CommentUncomment
+- Cmd + Shift + 7 or Cmd + /: CommentUncomment
 - Cmd J: Move focus to editor
+- Cmd +/-: Up/down font size
+- Ctrl Shift + Click mouse: Multiple cursor
 
 ### View
 - Cmd 0: Navigator
