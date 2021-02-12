@@ -2,9 +2,12 @@
 
 ### Edit
 - Cmd + Shift + 7 or Cmd + /: CommentUncomment
-- Cmd J: Move focus to editor
 - Cmd +/-: Up/down font size
 - Ctrl Shift + Click mouse: Multiple cursor
+
+### Navigation
+- Cmd J: Move focus to editor
+- Ctrl Cmd cursor -> or cursor <-: move back forward window
 
 ### View
 - Cmd 0: Navigator
@@ -22,6 +25,8 @@
 
 ### Others
 - Cmd ,: Preferences
+- \#warning("TODO: bla bla bla")
+- \#error("TODO: bla bla bla")
 
 
 ### Resources
