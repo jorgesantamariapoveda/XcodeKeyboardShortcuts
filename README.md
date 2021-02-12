@@ -1,10 +1,25 @@
 # Keyboard shortcuts for Xcode
 
+### Edit
+- Cmd + Shift + 7 or Cmd + / : CommentUncomment
+- Cmd J: Move focus to editor
+
+### View
+- Cmd 0: Navigator
+- Cmd 1...9: Navigators
+- Cmd Alt 0: Inspector
+- Cmd Alt 1...4: Inspectors
+- Cmd Shift Y: Debug area
+- Cmd Shif C: Console
 
 ### Build, Run & Test
-- Cmd + B: Build
-* Cmd + R: Run
-- Cmd + U: Test
+- Cmd + B : Build
+- Cmd + R : Run
+- Cmd + . : Stop
+- Cmd + U : Test
+
+### Others
+- Cmd ,: Preferences
 
 
 ### Resources
