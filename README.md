@@ -1,20 +1,20 @@
-# Keyboard shortcuts for Xcode
+## Keyboard shortcuts for Xcode
 
-## Default
+#### Default
 
-### Edit
+###### Edit
 - Cmd Shift 7 or Cmd /: CommentUncomment
 - Cmd +/-: Up/down font size
 - Ctrl i (selecting text): format
 - Ctrl Shift + Click mouse: Multiple cursor
 
-### Moving around the code
+###### Moving around the code
 - Ctlr → ←: begin/end word
 - Cmd → ←: begin/end line
 - Cmd ↑ ↓: begin/end file
 - Cmd l: go to line
 
-### Find
+###### Find
 - Cmd Shift o: open file
 - Cmd f: find
 - Cmd Alt f: replace
@@ -24,7 +24,7 @@
 - Cmd e: use selection for find
 - cmd g: find next
 
-### Navigation
+###### Navigation
 - Cmd j: Move focus to editor
 - Cmd Shift j: Move focus to navigator editor
 - Cmd Ctrl → ←: move back forward window
@@ -32,7 +32,7 @@
 - Ctrl 5: see project files
 - Ctrl 6: see file functions
 
-### View
+###### View
 - Cmd 0: Navigator
 - Cmd 1...9: Navigators
 - Cmd Alt 0: Inspector
@@ -40,24 +40,24 @@
 - Cmd Shift y: Debug area
 - Cmd Shif c: Console
 
-### Build, Run & Test
+###### Build, Run & Test
 - Cmd b : Build
 - Cmd r : Run
 - Cmd . : Stop
 - Cmd u : Test
 
-### Debug
+###### Debug
 - F6: step over
 - F7: step into
 
-### Others (common for almost all applications)
+###### Others (common for almost all applications)
 - Cmd ,: Preferences
 - Cms s: save
 - Cmd a: select all
 - Cmd n: new file
 
 
-## My custom keyboard shortcuts
+#### My custom keyboard shortcuts
 Key binding sets are stored in ~/Library/Developer/Xcode/UserData/KeyBindings/ [[link]](https://www.andr.mu/logs/xcode-custom-key-bindings/)
 
 - Ctrl Shift 8: invisibles
@@ -66,6 +66,6 @@ Key binding sets are stored in ~/Library/Developer/Xcode/UserData/KeyBindings/ [
 - Cmd Ctrl F9: delete all breakpoints
 
 
-## Code (these aren't shortcuts)
-- \#warning("TODO: bla bla bla")
-- \#error("TODO: bla bla bla")
+#### Code (these aren't shortcuts)
+- \#warning("TODO: comment")
+- \#error("comment")
