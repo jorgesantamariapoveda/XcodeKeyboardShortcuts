@@ -58,7 +58,7 @@
 
 
 ## My custom keyboard shortcuts
-Key binding sets are stored in ~/Library/Developer/Xcode/UserData/KeyBindings/ [link](https://www.andr.mu/logs/xcode-custom-key-bindings/)
+Key binding sets are stored in ~/Library/Developer/Xcode/UserData/KeyBindings/ [[link]](https://www.andr.mu/logs/xcode-custom-key-bindings/)
 
 - Ctrl Shift 8: invisibles
 - F9: add/delete breakpoints
