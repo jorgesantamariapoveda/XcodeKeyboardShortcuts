@@ -21,6 +21,8 @@
 - Cmd Shift f: find project
 - Cmd Shift Alt f: replace project
 - Cmd Ctrl e: refactor (select word)
+- Cmd e: use selection for find
+- cmd g: find next
 
 ### Navigation
 - Cmd j: Move focus to editor
