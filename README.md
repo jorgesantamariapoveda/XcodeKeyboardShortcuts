@@ -7,6 +7,7 @@
 - Cmd +/-: Up/down font size
 - Ctrl i (selecting text): format
 - Ctrl Shift + Click mouse: Multiple cursor
+- Cmd Ctrl e: refactor (select word)
 
 ###### Moving around the code
 - Ctlr → ←: begin/end word
@@ -20,14 +21,12 @@
 - Cmd Alt f: replace
 - Cmd Shift f: find project
 - Cmd Shift Alt f: replace project
-- Cmd Ctrl e: refactor (select word)
 - Cmd e: use selection for find
 - cmd g: find next
 
 ###### Navigation
 - Cmd j: Move focus to editor
 - Cmd Shift j: Move focus to navigator editor
-- Cmd Ctrl → ←: move back forward window
 - Cmd w: close tab
 - Ctrl 5: see project files
 - Ctrl 6: see file functions
@@ -64,6 +63,8 @@ Key binding sets are stored in ~/Library/Developer/Xcode/UserData/KeyBindings/ [
 - F9: add/delete breakpoints
 - Cmd F9: disable breakpoints
 - Cmd Ctrl F9: delete all breakpoints
+- Ctrl tab: move next tab
+- Ctrl Shift tab: move previous tab
 
 
 #### Code (these aren't shortcuts)
